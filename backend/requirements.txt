@@ -5,3 +5,4 @@ scikit-learn==1.7.2
 joblib==1.5.2
 datasets==4.1.1
 pyarrow==21.0.0
+gunicorn==23.0.0
