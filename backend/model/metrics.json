@@ -1,0 +1,19 @@
+{
+  "model": "Random Forest Regressor",
+  "train_rows": 17180,
+  "test_rows": 4306,
+  "mae": 1.3296,
+  "rmse": 3.4796,
+  "r2": 0.9181,
+  "features": [
+    "Year",
+    "State",
+    "Crop",
+    "Season",
+    "Area_ha",
+    "Annual_Rainfall",
+    "Fertilizer_per_ha",
+    "Pesticide_per_ha"
+  ],
+  "note": "Production is intentionally excluded to prevent target leakage because yield is derived from production and area."
+}
