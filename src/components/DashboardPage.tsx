@@ -72,7 +72,7 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
               Crop Yield Prediction Using ML
             </h2>
             <p className="text-emerald-100/90 text-sm sm:text-base leading-relaxed">
-Empowering agricultural science with machine learning-based Random Forest regression.              Forecast expected yields in <span className="font-semibold text-white underline decoration-emerald-400">tons/hectare</span> across Indian agro-climatic zones.
+Empowering agricultural science with machine learning-based Random Forest regression.Forecast expected yields in <span className="font-semibold text-white underline decoration-emerald-400">tons/hectare</span> across Indian agro-climatic zones.
             </p>
           </div>
 
